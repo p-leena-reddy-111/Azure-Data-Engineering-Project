@@ -1,6 +1,6 @@
 [
     {
-        "p_rel_url":"/p-leena-reddy-111/Azure-Data-Engineering-Project/refs/heads/main/AzureProjectData/AdventureWorks_Returns.csv",
+        "p_rel_url":"p-leena-reddy-111/Azure-Data-Engineering-Project/refs/heads/main/AzureProjectData/AdventureWorks_Returns.csv",
         "p_sink_folder":"Returns",
         "p_sink_file":"returns.csv"
     },
